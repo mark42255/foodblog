@@ -1,3 +1,1 @@
-# foodblog
-Manthan Madarchod
-Manthan MC
+# foodblog Project
